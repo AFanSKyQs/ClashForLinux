@@ -11,12 +11,12 @@
 
 
 ```bash
-git clone https://gitee.com/FanSky_Qs/clash-for-linux.git
+git clone https://github.com/AFanSKyQs/ClashForLinux.git
 ```
 
 ### 2、进入目录
 ```bash
-cd clash-for-linux
+cd ClashForLinux
 ```
 ### 3、运行脚本启动。
 ```bash
@@ -27,7 +27,7 @@ bash StartRun.sh
 
 ## ！！！重点
 
->建议结合`ftp软件`或者直接`vim`查看`clash-for-linux/conf/config.yaml`配置文件内是否有订阅节点信息
+>建议结合`ftp软件`或者直接`vim`查看`ClashForLinux/conf/config.yaml`配置文件内是否有订阅节点信息
 >>现在大部分机场的订阅链接都是加密了的，所以配置文件里面并没有得到节点信息
 
 ## ！如果没有节点信息该怎么办
@@ -64,7 +64,7 @@ bash StartRun.sh
 - 进入项目目录
 
 ```bash
-$ cd clash-for-linux
+$ cd ClashForLinux
 ```
 
 - 运行启动脚本
@@ -133,7 +133,7 @@ https_proxy=http://127.0.0.1:7890
 - 进入项目目录
 
 ```bash
-$ cd clash-for-linux
+$ cd ClashForLinux
 ```
 
 - 关闭服务
